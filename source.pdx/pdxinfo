@@ -1,9 +1,0 @@
-name=Lemonade Stand
-author=Maddie
-description=Profit off the neighborhood.
-version=0.1
-buildNumber=1
-bundleID=com.maddie.lemonadestand
-imagePath=assets
-pdxversion=30000
-buildtime=816931785
